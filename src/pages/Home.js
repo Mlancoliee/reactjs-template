@@ -3,10 +3,10 @@ import logo from '../logo.svg';
 import '../App.css';
 
 function Home() {
-  // const p = {
-  //   name: 'zs'
-  //   age: 18,
-  // }
+  const p = {
+    name: 'zs'
+    age: 18,
+  }
   return (
     <div className="App">
       <header className="App-header">
