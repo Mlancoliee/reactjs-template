@@ -4,7 +4,7 @@ import '../App.css';
 
 function Home() {
   const p = {
-    name: 'zs'
+    name: 'zs',
     age: 18,
   }
   return (
